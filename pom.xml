@@ -107,7 +107,7 @@
           </descriptors>
           <archive>
             <manifest>
-              <mainClass>com.example.WordCount</mainClass>
+              <mainClass>com.example.crunch.scrunch.WordCountApp</mainClass>
             </manifest>
           </archive>
         </configuration>
